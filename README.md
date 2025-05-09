@@ -33,7 +33,7 @@ Trabajo práctico de la materia Programación Web 1. Usando HTML y CSS para arma
 ### 📫 ¡Contactos!
 
 - ✉️ **Email:** [magalipeschiera@gmail.com]  
-- 💼 **LinkedIn:** [linkedin.com/in/tuperfil](https://www.linkedin.com/in/magali-peschiera-2a074130a/)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/magali-peschiera-2a074130a/]  
 - 🌐 **Portfolio en construcción** (pronto lo vas a poder ver por acá 😉)
 
 ---

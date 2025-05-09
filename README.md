@@ -24,7 +24,7 @@ Trabajo práctico de la materia Programación Web 1. Usando HTML y CSS para arma
 
 ### ⚙️ Tecnologías que estoy usando y aprendiendo
 
-- 💻 HTML | CSS | Java | JavaScript (en proceso)
+- 💻 HTML | CSS | Java | SQL | JavaScript (en proceso) 
 - 🧩 WordPress | Canva | Figma (nivel principiante)
 - 🛠️ Git & GitHub
 

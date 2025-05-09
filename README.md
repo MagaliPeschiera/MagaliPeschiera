@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Magali 👋</h1>
 
-<!--
-**MagaliPeschiera/MagaliPeschiera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudiante de informática | 🌐 Apasionada por las tecnologias web | 🎨 Experiencia en diseño publicitario  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💁‍♀️ Sobre mí
+
+- 🖥️ Estoy estudiando informática y haciendo diseño publicitario.
+- 🧩 Me encanta crear cosas lindas y funcionales: desde páginas web hasta contenido para redes.
+- 📚 Siempre aprendiendo algo nuevo: HTML, CSS, Javascript, WordPress, Git, GitHub y más.
+- 🚀 ¡Buscando mi primer trabajo IT!
+
+---
+
+### 💻 Proyectos destacados
+
+🌟 [PW1-TP](https://github.com/MagaliPeschiera/PW1-TP)  
+Trabajo práctico de la materia Programación Web 1. Usando HTML y CSS para armar una página básica.
+
+---
+
+### ⚙️ Tecnologías que estoy usando y aprendiendo
+
+- 💻 HTML | CSS | Java | JavaScript (en proceso)
+- 🧩 WordPress | Canva | Figma (nivel principiante)
+- 🛠️ Git & GitHub
+
+---
+
+### 📫 ¡Contactos!
+
+- ✉️ **Email:** [magalipeschiera@gmail.com]  
+- 💼 **LinkedIn:** [linkedin.com/in/tuperfil](https://www.linkedin.com/in/magali-peschiera-2a074130a/)  
+- 🌐 **Portfolio en construcción** (pronto lo vas a poder ver por acá 😉)
+
+---
+
+<p align="center">
+✨ Gracias por pasar por mi perfil ✨
+</p>

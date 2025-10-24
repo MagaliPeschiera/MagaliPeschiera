@@ -1,44 +1,44 @@
 # ¡Hola! Soy Magali 👋  
 
-💻 **Estudiante de informática** | 🌐 **Apasionada por el desarrollo y diseño web** | 🎨 **Con experiencia en diseño publicitario**
+💻 **Desarrolladora web en formación** | 🌐 **Apasionada por el diseño y la tecnología** | 🎨 **Experiencia en diseño publicitario**
 
 ---
 
 ### 🌸 Sobre mí
-Soy estudiante de informática y actualmente me especializo en **desarrollo y diseño web**.  
-Me encanta combinar lo técnico con lo visual, creando **páginas atractivas, funcionales y con propósito** — desde proyectos personales hasta contenido para redes y comunidades.
+Soy estudiante de informática y me dedico al **diseño y desarrollo web**, combinando lo visual con lo funcional.  
+Me apasiona crear **sitios modernos, claros y con propósito**, cuidando tanto la estética como la experiencia del usuario.
 
-✨ Siempre aprendiendo algo nuevo: **HTML, CSS, JavaScript, WordPress, Git, GitHub, Figma, Canva y más.**  
-🚀 En proceso de construir mi **portfolio profesional y mis primeros proyectos para clientes.**  
-🎯 Buscando mi **primer trabajo IT** para seguir creciendo en el mundo del desarrollo.
+He desarrollado varios proyectos personales y académicos, incluyendo **páginas web completas, landings interactivas y sitios en WordPress**.  
+Actualmente lidero **Faith Web**, mi propio proyecto de desarrollo de sitios personalizados para emprendedores y organizaciones.
+
+🚀 En constante crecimiento, perfeccionando mis habilidades en **frontend, diseño UI/UX y herramientas de desarrollo modernas**.  
+💡 Busco seguir creciendo profesionalmente dentro del área del **desarrollo web**.
 
 ---
 
 ### 💡 Proyectos destacados
-- 🌟 **[PW1-TP](#)** — Proyecto de la materia *Programación Web 1*.  
-  Sitio web básico desarrollado con HTML y CSS.
 
-- ☕ **Landing Page de Cafetería (en desarrollo)** — Proyecto personal para practicar diseño responsivo y experiencia de usuario.
-
-- ✝️ **Rocafirme** — Landing page cristiana interactiva que incluye devocionales diarios, testimonios y recursos de inspiración.
-
+- 🌟 **[Faith Web](#)** — Emprendimiento personal dedicado a crear sitios web profesionales y personalizados con WordPress, HTML, CSS y Figma.  
+- 💻 **PW1-TP** — Trabajo práctico universitario que marcó mis primeros pasos en desarrollo estructurado y maquetación web.  
+- ☀️ **Green Tech** — Landing page ficticia para una marca de energía solar. Diseñada con enfoque ecológico, estructura moderna y secciones dinámicas que promueven la sostenibilidad.  
 ---
 
-### 🛠️ Tecnologías que uso y estoy aprendiendo
-- **Frontend:** HTML | CSS | JavaScript (en proceso)
-- **Diseño:** Figma | Canva
-- **CMS:** WordPress
+### 🛠️ Tecnologías que uso y sigo perfeccionando
+- **Frontend:** HTML | CSS | JavaScript  
+- **Diseño:** Figma | Canva  
+- **CMS:** WordPress  
 - **Herramientas:** Git | GitHub | VS Code  
-- **Otros:** SQL | conceptos básicos de UX/UI  
+- **Base de datos:** SQL 
 
 ---
 
-### 📫 ¡Contactame!
+### 📫 ¡Podés contactarme!
 - 📧 **Email:** [magalipeschiera@gmail.com](mailto:magalipeschiera@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/magali-peschiera](https://www.linkedin.com/in/magali-peschiera-2a074130a/)  
-- 🌐 **Portfolio:** *(en construcción — pronto lo vas a poder ver por acá 😄)*  
+- 🌐 **Portfolio:** *(en construcción, muy pronto online 😄)*  
 
 ---
 
-✨ _Gracias por pasar por mi perfil. Estoy construyendo paso a paso mi camino en el desarrollo web y disfrutando cada aprendizaje._  
-> “Pequeños comienzos, grandes propósitos.” ✨
+✨ _Gracias por visitar mi perfil. Me encanta seguir creando, aprendiendo y creciendo en cada nuevo proyecto._  
+> “Todo gran logro empieza con una idea y mucha constancia.” 🚀
+

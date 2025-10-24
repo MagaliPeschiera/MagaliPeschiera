@@ -1,6 +1,6 @@
 # ¡Hola! Soy Magali 👋  
 
-💻 **Desarrolladora web en formación** | 🌐 **Apasionada por el diseño y la tecnología** | 🎨 **Experiencia en diseño publicitario**
+💻 **Diseño y desarrollo web** | 🌐 **Apasionada por el diseño y la tecnología** | 🎨 **Experiencia en diseño publicitario**
 
 ---
 

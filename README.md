@@ -1,43 +1,44 @@
-<h1 align="center">¡Hola! Soy Magali 👋</h1>
+# ¡Hola! Soy Magali 👋  
 
-<p align="center">
-🎓 Estudiante de informática | 🌐 Apasionada por las tecnologias web | 🎨 Experiencia en diseño publicitario  
-</p>
+💻 **Estudiante de informática** | 🌐 **Apasionada por el desarrollo y diseño web** | 🎨 **Con experiencia en diseño publicitario**
 
 ---
 
-### 💁‍♀️ Sobre mí
+### 🌸 Sobre mí
+Soy estudiante de informática y actualmente me especializo en **desarrollo y diseño web**.  
+Me encanta combinar lo técnico con lo visual, creando **páginas atractivas, funcionales y con propósito** — desde proyectos personales hasta contenido para redes y comunidades.
 
-- 🖥️ Estoy estudiando informática y haciendo diseño publicitario.
-- 🧩 Me encanta crear cosas lindas y funcionales: desde páginas web hasta contenido para redes.
-- 📚 Siempre aprendiendo algo nuevo: HTML, CSS, Javascript, WordPress, Git, GitHub y más.
-- 🚀 ¡Buscando mi primer trabajo IT!
-
----
-
-### 💻 Proyectos destacados
-
-🌟 [PW1-TP](https://github.com/MagaliPeschiera/PW1-TP)  
-Trabajo práctico de la materia Programación Web 1. Usando HTML y CSS para armar una página básica.
+✨ Siempre aprendiendo algo nuevo: **HTML, CSS, JavaScript, WordPress, Git, GitHub, Figma, Canva y más.**  
+🚀 En proceso de construir mi **portfolio profesional y mis primeros proyectos para clientes.**  
+🎯 Buscando mi **primer trabajo IT** para seguir creciendo en el mundo del desarrollo.
 
 ---
 
-### ⚙️ Tecnologías que estoy usando y aprendiendo
+### 💡 Proyectos destacados
+- 🌟 **[PW1-TP](#)** — Proyecto de la materia *Programación Web 1*.  
+  Sitio web básico desarrollado con HTML y CSS.
 
-- 💻 HTML | CSS | Java | SQL | JavaScript (en proceso) 
-- 🧩 WordPress | Canva | Figma (nivel principiante)
-- 🛠️ Git & GitHub
+- ☕ **Landing Page de Cafetería (en desarrollo)** — Proyecto personal para practicar diseño responsivo y experiencia de usuario.
 
----
-
-### 📫 ¡Contactos!
-
-- ✉️ **Email:** [magalipeschiera@gmail.com]  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/magali-peschiera-2a074130a/]  
-- 🌐 **Portfolio en construcción** (pronto lo vas a poder ver por acá 😉)
+- ✝️ **Rocafirme** — Landing page cristiana interactiva que incluye devocionales diarios, testimonios y recursos de inspiración.
 
 ---
 
-<p align="center">
-✨ Gracias por pasar por mi perfil ✨
-</p>
+### 🛠️ Tecnologías que uso y estoy aprendiendo
+- **Frontend:** HTML | CSS | JavaScript (en proceso)
+- **Diseño:** Figma | Canva
+- **CMS:** WordPress
+- **Herramientas:** Git | GitHub | VS Code  
+- **Otros:** SQL | conceptos básicos de UX/UI  
+
+---
+
+### 📫 ¡Contactame!
+- 📧 **Email:** [magalipeschiera@gmail.com](mailto:magalipeschiera@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/magali-peschiera](https://www.linkedin.com/in/magali-peschiera-2a074130a/)  
+- 🌐 **Portfolio:** *(en construcción — pronto lo vas a poder ver por acá 😄)*  
+
+---
+
+✨ _Gracias por pasar por mi perfil. Estoy construyendo paso a paso mi camino en el desarrollo web y disfrutando cada aprendizaje._  
+> “Pequeños comienzos, grandes propósitos.” ✨
